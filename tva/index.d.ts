@@ -1,2 +1,2 @@
-import type { TVA } from 'packages/nativewind-utils/types';
+import type { TVA } from '../types';
 export declare const tva: TVA;
